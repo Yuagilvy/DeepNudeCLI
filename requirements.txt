@@ -2,6 +2,6 @@ numpy
 Pillow
 setuptools
 six
-pytorch
+torch
 torchvision
 wheel
