@@ -1,4 +1,4 @@
-# DeepNude Command Line Interface With No Watermark
+# DeepNude Command Line Interface With No Watermark 
 
 [![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)](https://www.python.org/downloads/release/python-350/)
 [![Torch 1.1](https://img.shields.io/badge/torch-1.1-blue.svg)](https://shields.io/)
